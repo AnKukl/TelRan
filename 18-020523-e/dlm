@@ -1,0 +1,81 @@
+[33mcommit 4e70a9701ad7e86e2a3b2b81fb66a4a48107a537[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: ec7ade5 9f571d3
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Tue Sep 12 17:03:26 2023 +0200
+
+    Merge branch 'main' of github.com:AnKukl/18-020523-e
+
+[33mcommit 9f571d3c153da62483634ddafb5dafa76141b4c8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AnKukl <131239026+AnKukl@users.noreply.github.com>
+Date:   Sat Aug 26 17:20:52 2023 +0200
+
+    Commits changing
+
+[33mcommit ec7ade57ca4de4eed006537905b4bfec346c7e43[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 16:39:33 2023 +0200
+
+    Add gitignore
+
+[33mcommit f400eebaa96624789369a1ee9240c48fdac5b620[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 16:25:49 2023 +0200
+
+    Ok commit
+
+[33mcommit 00e1e758fbaca5df5ce09ac3c7da66c997ed6b0f[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 16:17:49 2023 +0200
+
+    Revert "Bad commit"
+    
+    This reverts commit 496aa760de116caac2cf36066e6aa694f218faa5.
+
+[33mcommit 496aa760de116caac2cf36066e6aa694f218faa5[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 16:13:17 2023 +0200
+
+    Bad commit
+
+[33mcommit 3359d765a7123d864bb5b11fba722830d30c3d85[m
+Merge: 5870827 f9125e4
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 15:29:39 2023 +0200
+
+    Merge branch 'main' of github.com:AnKukl/18-020523-e
+
+[33mcommit 587082786fe5a7fc47bfd87745e6d518cccadb63[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 15:28:10 2023 +0200
+
+    Add .
+
+[33mcommit e7cba06ff2c9477fbdd75218ed1b74b693705e4d[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Sat Aug 26 15:24:47 2023 +0200
+
+    Add 2 lines in song.txt
+
+[33mcommit f9125e4fba7a59694c237c3b9b421279308e18fc[m
+Author: AnKukl <131239026+AnKukl@users.noreply.github.com>
+Date:   Fri Aug 18 08:05:24 2023 +0200
+
+    HW_150823
+
+[33mcommit 4ebc8fc01233d98caa4ce31b0b64d8b7276a99be[m
+Author: AnKukl <131239026+AnKukl@users.noreply.github.com>
+Date:   Thu Aug 17 08:24:23 2023 +0200
+
+    Update song.txt
+
+[33mcommit f53693525a2ff9532055e2e109eaf3dc9ea332b1[m
+Author: Anton.Kuklinski <kuklinskijanton@gmail.com>
+Date:   Wed Aug 16 08:59:03 2023 +0200
+
+    add new file song.txt
+
+[33mcommit 0a71807b6728f0d9b4f3cee58285ca01652e6712[m
+Author: AnKukl <131239026+AnKukl@users.noreply.github.com>
+Date:   Wed Aug 16 08:03:30 2023 +0200
+
+    Initial commit

@@ -1,0 +1,9 @@
+1.git clean -xdn (просмотреть файлы в которых собираемся отменить изменения)
+  git clean -xdf (отменить изменения в файлах)
+2.git restore --staged $FileName$
+3.a)git reset HEAD^(OR HEAD~$CommitsCount$)
+  b)git commit --amend -m "CommitComment"(Переписать последний коммит)
+4.git revert HEAD
+  (Внести изменения)
+  git commit -a -m "NewCommitComment"
+5.git checkout -b $BranchName$
